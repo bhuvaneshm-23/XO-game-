@@ -1,0 +1,22 @@
+MIT License
+
+Copyright (c) 2023 BHUVANESH M
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+2. Redistributions of the Software must retain the original copyright notice, and the Software may not be altered or modified in any way that changes the original copyright attribution.
+
+3. Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+4. The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the Software.
+
+5. Any derivatives or modifications of the Software must be distinctly marked and identified as such, and must not be misrepresented as the original Software.
+
+**6. Commercial Use:** You are permitted to use this Software for commercial purposes. However, all copyrights and patent rights associated with the Software, including any modifications, additions, or derivatives, remain the exclusive property of BHUVANESH M. In case of commercial use, BHUVANESH M reserves the right to require a negotiated agreement, including but not limited to the payment of a specified amount of stock or royalties in the business that employs the Software. Please contact BHUVANESH M for further information and to arrange the necessary agreements.
+
+This software is provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall the copyright owner or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
+
+Enjoy and have fun with BHUVANESH M's 2-player XO game! You are free to use, modify, and distribute it as you please, as long as you follow the above terms and conditions.
+
